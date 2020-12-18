@@ -14,4 +14,7 @@ public class Calc {
 	public void mul(int num1, int num2) {
 		System.out.println("diff= "+(num1*num2));
 	}
+	public void mod(int num1, int num2) {
+		System.out.println("diff= "+(num1%num2));
+	}
 }
